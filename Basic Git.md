@@ -42,6 +42,11 @@ So if the name of the branch is test >>>> git push origin test
 
 2. by doing so.... when you use RMD and switching branch, your codes automatically updated to correct version. 
 
+# reset the local files. e.g you delete some files from github web and want to force overwrite to local file
+1. git fetch --all
+2. git reset --hard origin/master  (for master branch) or
+3. git reset --hard origin/<branch_name>    >>> for specific branch name
+
 
 # Notes on command to read text file 
 1. use command cat readme.md
