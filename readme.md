@@ -13,4 +13,10 @@ Some useful function related to branching.
 9. your online will be the same with local now.
 
 
+### notes on command to read text file 
+1. use command cat readme.md
+
+
+
+
 
