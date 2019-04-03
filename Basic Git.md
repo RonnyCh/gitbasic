@@ -47,6 +47,8 @@ So if the name of the branch is test >>>> git push origin test
 2. git reset --hard origin/master  (for master branch) or
 3. git reset --hard origin/<branch_name>    >>> for specific branch name
 
+https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files
+
 
 # Notes on command to read text file 
 1. use command cat readme.md
