@@ -35,6 +35,13 @@ git remote set-url origin https://github.com/RonnyCh/test.git
 8. now you can push your master to github online ---> git push
 9. your online will be the same with local now.
 
+# notes on using branches logic
+
+1. once you create a branch, you need to do the usual >> add, commit, push the branch to origin.
+So if the name of the branch is test >>>> git push origin test
+
+2. by doing so.... when you use RMD and switching branch, your codes automatically updated to correct version. 
+
 
 # Notes on command to read text file 
 1. use command cat readme.md
