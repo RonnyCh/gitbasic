@@ -20,6 +20,9 @@ git push -u origin master  (i think you only need to this once, next time just g
 git remote set-url origin https://github.com/RonnyCh/test.git
 
 
+# to check the url of the origin
+git remote get-url origin 
+
 
 # 2. Branching
 
